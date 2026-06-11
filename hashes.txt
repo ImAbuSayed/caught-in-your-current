@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Caught In Your Current
+
+This log tracks the cryptographic history and versioning for the song **Caught In Your Current** (caught-in-your-current).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-12T00:35:43.510398 | `v1` | `3502a0ebc987b76015ec3a688432668c1428a1dc4199f531ec6733dd4939a2fd` | `fd91e189fd0497665713aaf1a672c2864e35a275921926b7d2e6518e57e9f458` | `2026-06-12_caught-in-your-current-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

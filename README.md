@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/caught-in-your-current/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Caught In Your Current](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caught-in-your-current/) |
+| **Get License** | [Music Rights & Licensing for Caught In Your Current](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caught-in-your-current/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `3502a0ebc987b76015ec3a688432668c1428a1dc4199f531ec6733dd4939a2fd` |
 | **Timestamp** | June 12, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
