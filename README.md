@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/caught-in-your-current/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Caught In Your Current](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caught-in-your-current/) |
+| **Get License** | [Request Licensing for Caught In Your Current](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caught-in-your-current/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Lost inside the rhythm of your breathing in the dark
+> Caught up in the current of the fire in your heart
+> Every little whisper pulling closer to the edge
+> Trading all my secrets for the promises you pledge
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
